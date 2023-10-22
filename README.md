@@ -19,7 +19,7 @@ Descrição do desafio: Criar um relatório mais elaborado com base na sample fi
  
  ## Telas do relatório publicado
  Pégina 1:
- <img src="/imagens/img/Desafio-powerbi-pg1.png">
+ <img src="/imagens/Desafio-powerbi-pg1.png">
  
   Pégina 2:
- <img src="/imagens/img/Desafio-powerbi-pg2.png">
+ <img src="/imagens/Desafio-powerbi-pg2.png">
